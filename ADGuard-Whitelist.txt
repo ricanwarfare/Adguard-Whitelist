@@ -44,4 +44,4 @@ www.dpbolvw.net
 www.anrdoezrs.net
 www.qksrv.net
 t.myvisualiq.net
-linksynergy.com
+*.linksynergy.com
